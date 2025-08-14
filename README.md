@@ -1,6 +1,6 @@
 # Adil Muhammad 👋
 
-**Aspiring Cybersecurity Expert | Ethical Hacker | Red Teamer | CTF Enthusiast | Bachelor of Computer Applications
+Cybersecurity Enthusiast | Ethical Hacker | Red Teamer | CTF Enthusiast | Bachelor of Computer Applications
 
 ---
 
@@ -16,9 +16,7 @@ I enjoy solving complex problems, participating in CTF challenges, and experimen
 - **Cybersecurity Expertise:** Network Security, Penetration Testing, Vulnerability Assessment  
 - **Specializations:**  
   - Red Team Operations  
-  - Capture The Flag (CTF) Participation  
-  - Web & Binary Exploitation  
-  - Reverse Engineering  
+  - Capture The Flag (CTF) Participation : ( Reverse Engineering , Web & Binary Exploitation )   
   - Cloud Security & Bug Bounty Hunting  
 
 ---
