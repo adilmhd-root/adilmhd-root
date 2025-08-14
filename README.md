@@ -37,7 +37,6 @@ I enjoy solving complex problems, participating in CTF challenges, and experimen
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Hydra](https://img.shields.io/badge/Hydra-000000?style=for-the-badge)
 ![John the Ripper](https://img.shields.io/badge/John_the_Ripper-FFD700?style=for-the-badge)
-
 ![Wireshark](https://img.shields.io/badge/Wireshark-0055A4?style=for-the-badge)  
 ![Evilginx2](https://img.shields.io/badge/Evilginx2-8B0000?style=for-the-badge)
 ![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-0A5E2C?style=for-the-badge)
