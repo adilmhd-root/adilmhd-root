@@ -12,7 +12,10 @@ I enjoy solving complex problems, participating in CTF challenges, and experimen
 ---
 
 ## 🛠 Skills & Domains
-- **Programming Languages:** Python, C, C++  
+- **Programming Languages
+
+
+  
 - **Cybersecurity Expertise:** Network Security, Penetration Testing, Vulnerability Assessment  
 - **Specializations:**  
   - Red Team Operations  
