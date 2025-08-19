@@ -1,4 +1,4 @@
-# Adil Muhammad 👋
+# Adil Muhammad
 
 Cybersecurity Enthusiast | Ethical Hacker | Red Teamer | CTF Enthusiast | Bachelor of Computer Applications
 
