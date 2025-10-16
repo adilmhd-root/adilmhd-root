@@ -12,7 +12,12 @@ I enjoy solving complex problems, participating in CTF challenges, and experimen
 ---
 
 ## 🛠 Skills & Domains
-- **Programming Languages
+- **Programming Languages**
+- python 
+- bash
+- c
+- c++
+- html,css,java script
 
 
   
