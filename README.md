@@ -45,5 +45,63 @@ I love solving complex challenges, breaking systems to secure them, and continuo
 
 ---
 
-### 🔹 CTF Specia
+### 🔹 CTF Specializations
+- Reverse Engineering  
+- Web Exploitation  
+- Binary Exploitation  
+- Forensics (Beginner)  
 
+---
+
+## 🧰 Red Team Toolbox
+<p align="left">
+  <img src="https://img.shields.io/badge/Nmap-004E89?style=for-the-badge&logo=linux" />
+  <img src="https://img.shields.io/badge/Metasploit-2C3E50?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hydra-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/John_the_Ripper-FFD700?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Wireshark-0055A4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Evilginx2-8B0000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OWASP_ZAP-0A5E2C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Nessus-CC0000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Wazuh-1C1C1C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Sliver_C2-5A5A5A?style=for-the-badge" />
+</p>
+
+---
+
+## 🧩 Current Focus
+- Mastering exploitation and red teaming methodologies  
+- Participating in CTFs consistently  
+- Doing active bug bounty recon & exploitation  
+- Building custom hacking tools  
+
+---
+
+## 🚀 Projects & Achievements
+- Built multiple scripts for automated recon & exploitation  
+- Completed several CTF challenges across different categories  
+- Hands-on experience in network and cloud pentesting  
+- Continuously improving OSINT & adversary simulation skills  
+
+---
+
+## 🖥 Operating Systems
+<p align="left">
+  <img src="assets/icons/kali.svg" width="42" />
+  <img src="assets/icons/parrot.svg" width="42" />
+  <img src="assets/icons/ubuntu.svg" width="42" />
+  <img src="assets/icons/windows.svg" width="42" />
+</p>
+
+---
+
+## 📫 Connect With Me  
+- 💼 LinkedIn: [Adil Muhammad](https://www.linkedin.com/in/adil-muhammad-738918295/)  
+- ✉️ Email: **adilmuhammedxp@gmail.com**  
+
+---
+
+<p align="center">
+  <i>"Hacking is like solving a puzzle — every piece teaches you something new."</i>
+</p>
