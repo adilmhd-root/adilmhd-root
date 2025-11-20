@@ -5,7 +5,7 @@
 
 <h1 align="center">👨‍💻 Adil Muhammad</h1>
 <p align="center">
-  <b>Cybersecurity Enthusiast • Ethical Hacker • Red Teamer • CTF Player • BCA Student</b>
+  <b>Cybersecurity Enthusiast • Ethical Hacker • Red Teamer • CTF Player • Bachelor of Computer Applications</b>
 </p>
 
 ---
