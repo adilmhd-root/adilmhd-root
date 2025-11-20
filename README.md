@@ -38,8 +38,7 @@ I love solving complex challenges, breaking systems to secure them, and continuo
 - Penetration Testing  
 - Vulnerability Assessment  
 - Attack Simulation / Red Team Ops  
-- Exploit Development (Beginner)  
-- OSINT  
+- Exploit Development    
 - Cloud Security  
 - Bug Bounty Recon  
 
@@ -49,8 +48,7 @@ I love solving complex challenges, breaking systems to secure them, and continuo
 - Reverse Engineering  
 - Web Exploitation  
 - Binary Exploitation  
-- Forensics (Beginner)  
-
+- Forensics
 ---
 
 ## 🧰 Red Team Toolbox
@@ -71,18 +69,19 @@ I love solving complex challenges, breaking systems to secure them, and continuo
 ---
 
 ## 🧩 Current Focus
+- Deepening knowledge in malware creation techniques, threat research, and reverse engineering
 - Mastering exploitation and red teaming methodologies  
 - Participating in CTFs consistently  
 - Doing active bug bounty recon & exploitation  
-- Building custom hacking tools  
+- Building custom hacking tools
 
 ---
 
 ## 🚀 Projects & Achievements
 - Built multiple scripts for automated recon & exploitation  
 - Completed several CTF challenges across different categories  
-- Hands-on experience in network and cloud pentesting  
-- Continuously improving OSINT & adversary simulation skills  
+- Hands-on experience in network and pentesting  
+- Completed hands-on labs in basic malware analysis and threat behavior understanding 
 
 ---
 
@@ -97,7 +96,7 @@ I love solving complex challenges, breaking systems to secure them, and continuo
 ---
 
 ## 📫 Connect With Me  
-- 💼 LinkedIn: [Adil Muhammad](https://www.linkedin.com/in/adil-muhammad-738918295/)  
+- 💼 LinkedIn: [Adil Muhammad](www.linkedin.com/in/adil-muhammad-738918295)  
 - ✉️ Email: **adilmuhammedxp@gmail.com**  
 
 ---
