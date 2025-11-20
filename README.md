@@ -22,9 +22,6 @@ I love solving complex challenges, breaking systems to secure them, and continuo
 
 ### 🔹 Programming Languages
 <p align="left">
-  
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-          
   <img src="assets/icons/bash.svg" width="48" alt="Bash"/>
   <img src="assets/icons/c.svg" width="48" alt="C"/>
   <img src="assets/icons/cpp.svg" width="48" alt="C++"/>
