@@ -96,7 +96,7 @@ I love solving complex challenges, breaking systems to secure them, and continuo
 ---
 
 ## 📫 Connect With Me  
-- 💼 LinkedIn: [Adil Muhammad](www.linkedin.com/in/adil-muhammad-738918295)  
+- 💼 LinkedIn: www.linkedin.com/in/adil-muhammad-738918295
 - ✉️ Email: **adilmuhammedxp@gmail.com**  
 
 ---
