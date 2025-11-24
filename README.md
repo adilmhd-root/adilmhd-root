@@ -75,16 +75,24 @@ I love solving complex challenges, breaking systems to secure them, and continuo
 ---
 
 ## 🖥 Operating Systems
-<p align="left">
-  <img src="assets/icons/kali.svg" width="42" />
-  <img src="assets/icons/parrot.svg" width="42" />
-  <img src="assets/icons/ubuntu.svg" width="42" />
-  <img src="assets/icons/windows.svg" width="42" />
+<p align="left"> 
+  <img src="os.png" width="40%" alt="Programming Languages"/>
 </p>
 
 ---
 
-## 📫 Connect With Me  
+## 🤝 Open to Collaborate
+
+I actively work on:
+
+🔐 **Cybersecurity Research Projects**  
+🛡️ **Penetration Testing & Bug Bounty Tasks**  
+🕵️ **Malware & Threat Analysis**  
+🏴‍☠️ **CTF Challenge Creation & Solving**  
+💻 **Security Tool Development & Cyber Projects**
+
+You’re welcome to connect with me for projects, conversations, or anything exciting.
+
 - 💼 LinkedIn: www.linkedin.com/in/adil-muhammad-738918295
 - ✉️ Email: **adilmuhammedxp@gmail.com**  
 
