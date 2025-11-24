@@ -5,7 +5,6 @@
 
 ---
 <p align="center"> 
-  
 ## 📄 About Me
 I’m Adil Muhammad from Kerala, India — deeply passionate about cybersecurity, ethical hacking, and red teaming.  
 Currently pursuing a **Bachelor of Computer Applications**, I explore the offensive and defensive sides of security through hands-on labs, CTFs, and real-world attack simulations.  
@@ -16,10 +15,8 @@ I love solving complex challenges, breaking systems to secure them, and continuo
 ---
 
 ## 🛠 Tech Arsenal
-<p align="center"> 
-  
+<p align="center">   
 ### 🔹 PROGRAMING LANGUAGES</h1>🔹 
-
   </p>
 <p align="center"> 
   <img src="lang.png" width="40%" alt="Programming Languages"/>
