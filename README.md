@@ -15,13 +15,8 @@ I love solving complex challenges, breaking systems to secure them, and continuo
 
 ## 🛠 Tech Arsenal
 ### 🔹 Programming Languages
-<p align="left">
-  <img src="assets/icons/bash.svg" width="48" alt="Bash"/>
-  <img src="assets/icons/c.svg" width="48" alt="C"/>
-  <img src="assets/icons/cpp.svg" width="48" alt="C++"/>
-  <img src="assets/icons/html.svg" width="48" alt="HTML"/>
-  <img src="assets/icons/css.svg" width="48" alt="CSS"/>
-  <img src="assets/icons/js.svg" width="48" alt="JavaScript"/>
+<p align="center">
+  <img src="lang.png" width="100%" alt="Programming Languages"/>
 </p>
 
 ### 🔹 Cybersecurity & Red Teaming
