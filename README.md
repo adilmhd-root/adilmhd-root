@@ -73,9 +73,9 @@ I love solving complex challenges, breaking systems to secure them, and continuo
 - Completed hands-on labs in basic malware analysis and threat behavior understanding 
 
 ---
-
+<div align="center"> 
+  
 ## 🖥 Operating Systems
-<p align="left"> 
   <img src="os.png" width="25%" alt="Operating Systems"/>
 </p>
 
@@ -109,8 +109,17 @@ I actively work on:
   <img src="https://img.shields.io/badge/Email-Message%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
+<a href="https://www.instagram.com/aadhil_.mhd/">
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<a href="https://x.com/AadhilMuhamd">
+  <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white">
+</a>
+
 </div>
----
+
+<p align="center">━━━━━━━━━━━━━━━━━━━━━</p>
 
 <p align="center">
   <i>"Hacking is like solving a puzzle — every piece teaches you something new."</i>
