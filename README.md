@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/adilmhd-root/assets/banner.png" width="100%" alt="Adil Muhammad – Cybersecurity Portfolio">
+  <img src="https://raw.githubusercontent.com/adilmhd-root/assets/main/banner.png" width="100%" alt="Adil Muhammad – Cybersecurity Portfolio">
 </p>
 
 <h1 align="center">👨‍💻 Adil Muhammad</h1>
