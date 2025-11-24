@@ -14,8 +14,7 @@ I love solving complex challenges, breaking systems to secure them, and continuo
 ---
 
 ## 🛠 Tech Arsenal
-<p align="center">   
-### 🔹 PROGRAMING LANGUAGES</h1>🔹 
+<p align="center"> 🔹 PROGRAMING LANGUAGES</h1>🔹</h1> 
   </p>
 <p align="center"> 
   <img src="lang.png" width="40%" alt="Programming Languages"/>
