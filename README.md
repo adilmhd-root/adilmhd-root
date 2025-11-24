@@ -14,12 +14,11 @@ I love solving complex challenges, breaking systems to secure them, and continuo
 ---
 
 ## 🛠 Tech Arsenal
-### 🔹 Programming Languages
-<p align="center">
+<p align="center"> ### 🔹 Programming Languages
   <img src="lang.png" width="40%" alt="Programming Languages"/>
 </p>
 
-### 🔹 Cybersecurity & Red Teaming
+<p align="center"> ### 🔹 Cybersecurity & Red Teaming
 - Network Security  
 - Penetration Testing  
 - Vulnerability Assessment  
@@ -27,6 +26,7 @@ I love solving complex challenges, breaking systems to secure them, and continuo
 - Exploit Development    
 - Cloud Security  
 - Bug Bounty Recon  
+</p>
 
 ---
 
