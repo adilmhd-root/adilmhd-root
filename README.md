@@ -81,6 +81,8 @@ I love solving complex challenges, breaking systems to secure them, and continuo
 
 ---
 
+<div align="center">
+
 ## 🤝 Open to Collaborate
 
 I actively work on:
@@ -91,7 +93,12 @@ I actively work on:
 🏴‍☠️ **CTF Challenge Creation & Solving**  
 💻 **Security Tool Development & Cyber Projects**
 
-You’re welcome to connect with me for projects, conversations, or anything exciting.
+<br/>
+
+**You’re welcome to connect with me for projects, conversations, or anything exciting.**
+
+</div>
+
 
 - 💼 LinkedIn: www.linkedin.com/in/adil-muhammad-738918295
 - ✉️ Email: **adilmuhammedxp@gmail.com**  
