@@ -101,8 +101,13 @@ I actively work on:
 
 <div align="center">
 
-[🔗 LinkedIn](https://www.linkedin.com/in/adil-muhammad-738918295)  
-[📧 Email](mailto:adilmuhammedxp@gmail.com)
+<a href="https://www.linkedin.com/in/adil-muhammad-738918295">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:adilmuhammedxp@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Message%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
 </div>
 ---
