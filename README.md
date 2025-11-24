@@ -76,7 +76,7 @@ I love solving complex challenges, breaking systems to secure them, and continuo
 
 ## 🖥 Operating Systems
 <p align="left"> 
-  <img src="os.png" width="250%" alt="Operating Systems"/>
+  <img src="os.png" width="25%" alt="Operating Systems"/>
 </p>
 
 ---
