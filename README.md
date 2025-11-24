@@ -99,10 +99,12 @@ I actively work on:
 
 </div>
 
+<div align="center">
 
-- 💼 LinkedIn: www.linkedin.com/in/adil-muhammad-738918295
-- ✉️ Email: **adilmuhammedxp@gmail.com**  
+[🔗 LinkedIn](https://www.linkedin.com/in/adil-muhammad-738918295)  
+[📧 Email](mailto:adilmuhammedxp@gmail.com)
 
+</div>
 ---
 
 <p align="center">
