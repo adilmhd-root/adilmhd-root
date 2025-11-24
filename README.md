@@ -15,7 +15,7 @@ I love solving complex challenges, breaking systems to secure them, and continuo
 
 ## 🛠 Tech Arsenal
 <p align="center"> 
-🔹 PROGRAMING LANGUAGES 🔹 
+🔹 PROGRAMING LANGUAGES </h2>🔹 
   </p>
 <p align="center"> 
   <img src="lang.png" width="40%" alt="Programming Languages"/>
@@ -39,7 +39,7 @@ I love solving complex challenges, breaking systems to secure them, and continuo
 - Forensics
 ---
 
-<p align="center"> 🧰 Red Team Toolbox
+<p align="center"> 🧰 Red Team Toolbox</h2>
   </p>
 <p align="center"> 
   <img src="https://img.shields.io/badge/Nmap-004E89?style=for-the-badge&logo=linux" />
