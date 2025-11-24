@@ -39,8 +39,9 @@ I love solving complex challenges, breaking systems to secure them, and continuo
 - Forensics
 ---
 
-## 🧰 Red Team Toolbox
-<p align="left">
+<p align="center"> 🧰 Red Team Toolbox
+  </p>
+<p align="center"> 
   <img src="https://img.shields.io/badge/Nmap-004E89?style=for-the-badge&logo=linux" />
   <img src="https://img.shields.io/badge/Metasploit-2C3E50?style=for-the-badge&logo=metasploit&logoColor=white" />
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
