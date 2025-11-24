@@ -14,9 +14,15 @@ I love solving complex challenges, breaking systems to secure them, and continuo
 ---
 
 ## 🛠 Tech Arsenal
-
-<p align="left"> <img src="https://raw.githubusercontent.com/adilmhd-root/assets/main/icons/bash.svg" width="55" style="margin-right:10px;" alt="Bash"/> <img src="https://raw.githubusercontent.com/adilmhd-root/assets/main/icons/c.svg" width="55" style="margin-right:10px;" alt="C"/> <img src="https://raw.githubusercontent.com/adilmhd-root/assets/main/icons/cpp.svg" width="55" style="margin-right:10px;" alt="C++"/> <img src="https://raw.githubusercontent.com/adilmhd-root/assets/main/icons/html.svg" width="55" style="margin-right:10px;" alt="HTML"/> <img src="https://raw.githubusercontent.com/adilmhd-root/assets/main/icons/css.svg" width="55" style="margin-right:10px;" alt="CSS"/> <img src="https://raw.githubusercontent.com/adilmhd-root/assets/main/icons/js.svg" width="55" style="margin-right:10px;" alt="JavaScript"/> </p>
----
+### 🔹 Programming Languages
+<p align="left">
+  <img src="assets/icons/bash.svg" width="48" alt="Bash"/>
+  <img src="assets/icons/c.svg" width="48" alt="C"/>
+  <img src="assets/icons/cpp.svg" width="48" alt="C++"/>
+  <img src="assets/icons/html.svg" width="48" alt="HTML"/>
+  <img src="assets/icons/css.svg" width="48" alt="CSS"/>
+  <img src="assets/icons/js.svg" width="48" alt="JavaScript"/>
+</p>
 
 ### 🔹 Cybersecurity & Red Teaming
 - Network Security  
